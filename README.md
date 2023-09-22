@@ -1,4 +1,4 @@
-# Projet application web médicale pour detecter la septicémie
+# Application web médicale pour la détection de la septicémie.
 
 **Objectif** :
 Mise en place d'une application web destinée au domaine médical pour prédire la septicémie basée sur un modèle de machine learning, optimisé à plusieurs reprises.
